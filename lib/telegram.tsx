@@ -1,4 +1,4 @@
-Update telegram.tsx/**
+/**
  * TELEGRAM NOTIFICATION CONFIGURATION
  *
  * This service sends real-time notifications to your Telegram chat when users:
